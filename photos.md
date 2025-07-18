@@ -8,3 +8,15 @@
 <img width="641" height="215" alt="{7FB242A0-E10D-4A5C-84D5-D0D3DECF6C08}" src="https://github.com/user-attachments/assets/9e9796cd-a2ad-4db8-aa25-c4520bd0ee50" />
 <img width="632" height="124" alt="{02AA83A2-0A10-4D00-B961-93905FB0273A}" src="https://github.com/user-attachments/assets/a6633c6e-d829-456c-9cbb-fc4ad20fbe53" />
 <img width="1120" height="408" alt="{1C44B2A9-3DA3-4AC7-BC4C-F414D018FBD9}" src="https://github.com/user-attachments/assets/e3a65456-a861-4f45-b307-de85efb91de3" />
+<img width="950" height="521" alt="{C4737F43-B81C-4605-B21E-73465C64A9FF}" src="https://github.com/user-attachments/assets/756b7a25-9df9-4757-975b-e35007e9a602" />
+<img width="1401" height="687" alt="{BE79DC41-87AA-4FFA-9DD5-1E3BC9FE7A9C}" src="https://github.com/user-attachments/assets/7112ecef-be06-44fb-a1bd-376bcb3b96a8" />
+**CLICK ON RESOURCE GROUP**
+<img width="521" height="541" alt="{45DDC056-B540-4507-BF17-9B5B02D2D0F6}" src="https://github.com/user-attachments/assets/b2d821ec-75dc-4bab-9cd7-5ee4a4c04de4" />
+<img width="1449" height="890" alt="{1BBB5E21-908E-4564-AD0C-0899A6597377}" src="https://github.com/user-attachments/assets/891dd4ee-2efe-4c76-9226-d1bedacdb572" />
+**Trouble shooting**
+**problem** <img width="773" height="487" alt="{20EAC3BF-50FB-4860-85F6-97AB8242E939}" src="https://github.com/user-attachments/assets/4f6dfc99-1d75-4114-aae7-be50c711ab2a" />
+**check that its running**
+<img width="1480" height="355" alt="{B4FDB276-DD79-483B-8798-7A40C0C754D1}" src="https://github.com/user-attachments/assets/74dde427-07af-46de-93f3-1701059d4308" />
+
+<img width="1618" height="741" alt="{9C78485B-85C4-435F-83AC-B094153681CB}" src="https://github.com/user-attachments/assets/a821aac4-746a-4f14-9e90-194b868f182d" />
+<img width="760" height="486" alt="{B60ABBA0-8634-4BDA-9871-840FB6E8F3A6}" src="https://github.com/user-attachments/assets/1a1e5a6c-b612-4ffb-bcfa-17721cb7707b" />
