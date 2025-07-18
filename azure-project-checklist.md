@@ -2,7 +2,7 @@
 
 **Goal:** Set up a simulated enterprise IT environment
 **Total time:** \~2 hours
-**Bonus:** Gives you talking points for Azure AD, VM management, cloud backup, and user support.
+**Videos:** (https://www.youtube.com/watch?v=OCiN37sjXuw&ab_channel=AndersJensen) (https://www.youtube.com/watch?v=_UuO52KgwGk&ab_channel=JohnSavill%27sTechnicalTraining) (https://www.youtube.com/watch?v=dkvrAYyYg9w&ab_channel=GuideToLearn)
 
 ---
 
@@ -77,16 +77,3 @@
 * [ ] Create a **Log Analytics Workspace**
 * [ ] Link your VM to the workspace (under VM > Monitoring > Insights)
 * [ ] Review basic logs like boot time, CPU, and performance
-
----
-
-## 🧠 **Key Phrases for Your Interview**
-
-* "Created a Windows VM and connected it to Azure AD to simulate user identity and access control."
-* "Configured cloud storage to simulate backup/restore and system log storage."
-* "Used RBAC to manage storage access securely."
-* "Explored Azure Monitor and boot diagnostics to observe system performance."
-
----
-
-Would you like this checklist in PDF or printable format too?
